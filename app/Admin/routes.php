@@ -19,6 +19,7 @@ use Illuminate\Routing\Router;
         $router->resource('suverymonkey', SuverymonkeyController::class);
         $router->resource('zoom', ZoomController::class);
         $router->resource('exclusive', ExclusiveController::class);
+        $router->resource('pdfs', PdfController::class);
         $router->get('quotes', 'EventController@quotes');
         $router->get('quotes-detail/{id}', 'EventController@quotesDetail')->name('quotes-detail');
         $router->get('delete-quotes/{id}', 'EventController@quotesDelete')->name('delete-quotes');

@@ -44,7 +44,7 @@
               <section data-aos="fade-up" v-for="blog in paginated('blogs')">
                 <div class="row  mb-5">
                   <div class="col-md-1 pr-0 pl-0 nopadding text-center mr-3 hidden-md-down">
-                    <p class="btn mt-0 background-blue">{{formatDate(blog.created_at)}}</p>
+                    <p class="btn mt-0 background-blue color-white">{{formatDate(blog.created_at)}}</p>
                   </div>
                     <div class="col-md-1  text-center hidden-lg-up">
                         <p class="background-blue color-white">{{formatDate(blog.created_at)}}</p>

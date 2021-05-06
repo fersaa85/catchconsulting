@@ -28,8 +28,8 @@
                     <tfoot>
                         <tr>
                             <td class="bg-transparent"></td>
-                            <td class="bg-transparent text-center"><h1>401</h1><p>Empresas</p></td>
-                            <td class="bg-transparent text-center"><h1>360,123</h1><p>Empleados representados </p></td>
+                            <td class="bg-transparent text-center"><h1>798</h1><p>Empresas</p></td>
+                            <td class="bg-transparent text-center"><h1>455,365</h1><p>Empleados representados </p></td>
                         </tr>
                     </tfoot>
                 </table>
@@ -45,75 +45,112 @@
                 tableData: [
                     {
                         state: 'Guanajuato',
-                        participant: 141,
-                        represented: 75940,
+                        participant: 193,
+                        represented: 99591,
                     },
 
                     {
                         state: 'Nuevo León',
-                        participant: 88,
-                        represented: 167300,
+                        participant: 170,
+                        represented: 102191,
                     },
 
                     {
                         state: 'San Luis Potosí',
-                        participant: 41,
-                        represented: 33173,
+                        participant: 110,
+                        represented: 75372,
                     },
 
                     {
                         state: 'Coahuila',
-                        participant: 28,
-                        represented: 35582,
+                        participant: 51,
+                        represented: 31813,
                     },
 
                     {
                         state: 'Querétaro',
-                        participant: 25,
-                        represented: 18054,
+                        participant: 82,
+                        represented: 53974,
                     },
 
                     {
                         state: 'Jalisco',
-                        participant: 19,
-                        represented: 6124,
+                        participant: 41,
+                        represented: 19916,
                     },
 
                     {
                         state: 'Puebla',
-                        participant: 17,
-                        represented: 12054,
+                        participant: 28,
+                        represented: 10388,
                     },
 
                     {
                         state: 'Estado de México',
-                        participant: 12,
-                        represented: 6403,
+                        participant: 26,
+                        represented: 9500,
                     },
 
                     {
                         state: 'Aguascalientes',
-                        participant: 10,
-                        represented: 1269,
+                        participant: 33,
+                        represented: 14141,
+                    },
+
+                    {
+                        state: 'Tamaulipas',
+                        participant: 3,
+                        represented: 753,
+                    },
+
+                    {
+                        state: 'Baja California',
+                        participant: 6,
+                        represented: 1922,
+                    },
+
+                    {
+                        state: 'Chihuahua',
+                        participant: 8,
+                        represented: 5008,
+                    },
+
+                    {
+                        state: 'Ciudad de México',
+                        participant: 12,
+                        represented: 4115,
+                    },
+
+                    {
+                        state: 'Durango',
+                        participant: 15,
+                        represented: 7416,
+                    },
+
+                    {
+                        state: 'Colima',
+                        participant: 1,
+                        represented: 1226,
                     },
 
                     {
                         state: 'Tlaxcala',
-                        participant: 8,
-                        represented: 2778,
+                        participant: 13,
+                        represented: 5420,
                     },
 
                     {
-                        state: 'Sonora',
-                        participant: 1,
-                        represented: 1191,
+                        state: 'Veracruz',
+                        participant: 4,
+                        represented: 5619,
                     },
 
                     {
-                        state: 'Sinaloa',
-                        participant: 1,
-                        represented: 255,
-                    }
+                        state: 'Campeche',
+                        participant: 2,
+                        represented: 7000,
+                    },
+
                 ]
             }
         },

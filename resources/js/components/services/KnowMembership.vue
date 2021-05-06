@@ -31,44 +31,44 @@
                                 <th class="text-white bg-menbership-blue round-div">
                                     <div>
                                         <div>
-                                            <p class="inline text-blue-dark">Desde:</p> <h5 class="inline">$1,062</h5>
+                                            <p class="inline text-blue-dark">Desde:</p> <h5 class="inline">$1,216</h5>
                                             <span class="span-menbership inline text-blue-dark">x mes</span>
                                         </div>
                                         <div>
-                                            <p class="inline text-blue-dark">Anual:</p> <h5 class="inline">$10,832</h5>
+                                            <p class="inline text-blue-dark">Anual:</p> <h5 class="inline">$12,403</h5>
                                         </div>
                                     </div>
                                 </th>
                                 <th class="text-white bg-menbership-silver round-div">
                                     <div>
                                         <div>
-                                            <p class="inline text-gray">Desde:</p> <h5 class="inline">$1,410</h5>
+                                            <p class="inline text-gray">Desde:</p> <h5 class="inline">$1,591</h5>
                                             <span class="span-menbership inline text-gray">x mes</span>
                                         </div>
                                         <div>
-                                            <p class="inline text-gray">Anual:</p> <h5 class="inline">$14,382</h5>
+                                            <p class="inline text-gray">Anual:</p> <h5 class="inline">$16,228</h5>
                                         </div>
                                     </div>
                                 </th>
                                 <th class="text-white bg-menbership-gold round-div">
                                     <div>
                                         <div>
-                                            <p class="inline text-gold">Desde:</p> <h5 class="inline">$4,329</h5>
+                                            <p class="inline text-gold">Desde:</p> <h5 class="inline">$4,777</h5>
                                             <span class="span-menbership inline text-gold">x mes</span>
                                         </div>
                                         <div>
-                                            <p class="inline text-gold">Anual:</p> <h5 class="inline">$44,152</h5>
+                                            <p class="inline text-gold">Anual:</p> <h5 class="inline">$48,722</h5>
                                         </div>
                                     </div>
                                 </th>
                                 <th class="text-white bg-menbership-platinum round-div">
                                     <div>
                                         <div>
-                                            <p class="inline text-black">Desde:</p> <h5 class="inline">$8,375</h5>
+                                            <p class="inline text-black">Desde:</p> <h5 class="inline">$8,927</h5>
                                             <span class="span-menbership inline text-black">x mes</span>
                                         </div>
                                         <div>
-                                            <p class="inline text-black">Anual:</p> <h5 class="inline">$85,425</h5>
+                                            <p class="inline text-black">Anual:</p> <h5 class="inline">$91,055</h5>
                                         </div>
                                     </div>
                                 </th>

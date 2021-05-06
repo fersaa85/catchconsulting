@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-5">
                         <h2 class="mt-5 mb-5">Nosotros</h2>
-                        <h5>Somos el apoyo a nivel Nacional preferido de más de 400 compañías multinacionales al brindarles soluciones desde hace más de 6 años.</h5>
+                        <h5>Somos el apoyo a nivel Nacional preferido de más de 750 compañías multinacionales al brindarles soluciones desde hace más de 4 años.</h5>
 
                         <h5>Nuestro Equipo se encuentra altamente calificado en calidad y satisfacción del cliente, logrando alianzas estratégicas a nivel Nacional.</h5>
                         <p class="text-center mb-0"><img src="images/about/nosotros_catch_1.png" width="100%"></p>

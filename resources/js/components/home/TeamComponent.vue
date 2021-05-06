@@ -56,15 +56,33 @@
 
                     {
                         name: 'Rodrigo Arciniegas',
-                        position: 'Dirección',
+                        position: 'Director General',
                         email:   'rodrigo@catchconsulting.com.mx',
                         image: 'images/team/Rodrigo_Arciniegas.jpg'
                     },
                     {
-                        name: 'Alonso Gallardo',
-                        position: 'Encuesta de Recursos Humanos',
-                        email: 'alonso@catchconsulting.com.mx',
-                        image: 'images/team/Alonso_Vallejo.jpg'
+                        name: 'Juan Manuel Jimenez',
+                        position: 'Dirección Monterrey',
+                        email: 'juan.m.jimenez@catchconsulting.com.mx',
+                        image: 'images/team/Juan_M_Jimenez.jpg'
+                    },
+                    {
+                        name: 'Marco López',
+                        position: 'Dirección Toluca',
+                        email: 'marco.lopez@catchconsulting.com.mx',
+                        image: 'images/team/Marco_Lopez.jpg'
+                    },
+                    {
+                        name: 'Tomas Espinoza',
+                        position: 'Dirección Laguna - Saltillo',
+                        email: 'tomas.espinoza@catchconsulting.com.mx',
+                        image: 'images/team/Tomas_Espinoza.jpg'
+                    },
+                    {
+                        name: 'Jorge Gutierrez',
+                        position: 'Dirección Canadá',
+                        email: 'jorge.gutierrez@catchconsulting.ca',
+                        image: 'images/team/Jorge_Gutierrez.jpg'
                     },
                     {
                         name: 'Rosalba Falcón',
@@ -73,28 +91,40 @@
                         image: 'images/team/Rosalba_Falcon.jpg'
                     },
                     {
+                        name: 'Karla López',
+                        position: 'Comunicación & RRPP',
+                        email: 'karla.lopez@catchconsulting.com.mx',
+                        image: 'images/team/Karla_Lopez.jpg'
+                    },
+                    {
                         name: 'Valeria Roqueñí',
-                        position: 'Administración',
+                        position: 'Finanzas',
                         email: 'valeria.hernandez@catchconsulting.com.mx',
                         image: 'images/team/Valeria_Roqueni.jpg'
                     },
                     {
                         name: 'Isaac Vallejo',
-                        position: 'Analista de Información',
+                        position: 'Analista de Datos',
                         email: 'isaac.vallejo@catchconsulting.com.mx',
                         image: 'images/team/Isaac_Vallejo.jpg'
                     },
                     {
-                        name: 'Fernanda Castañeda',
-                        position: 'HR Business Partner',
-                        email: 'fernanda.castaneda@catchconsulting.com.mx',
-                        image: 'images/team/Fernanda_Castaneda.jpg'
+                        name: 'Paloma Ramos',
+                        position: 'Analista de Información',
+                        email: 'operaciones@catchconsulting.com.mx',
+                        image: 'images/team/Paloma_Ramos.jpg'
                     },
                     {
-                        name: 'Paola Galicia',
-                        position: 'Ventas',
-                        email: 'paola.galicia@catchconsulting.com.mx',
-                        image: 'images/team/Paola_Galicia.jpg'
+                        name: 'Miguel Flores',
+                        position: 'Analista de Información',
+                        email: 'miguel.flores@catchconsulting.com.mx',
+                        image: 'images/team/Miguel_Flores.jpg'
+                    },
+                    {
+                        name: 'Fernanda Castañeda',
+                        position: 'Recursos Humanos',
+                        email: 'fernanda.castaneda@catchconsulting.com.mx',
+                        image: 'images/team/Fernanda_Castaneda.jpg'
                     },
 
                 ]

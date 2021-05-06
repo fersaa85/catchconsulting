@@ -45,6 +45,8 @@ import Page7 from './components/services/Page7.vue';
 import Page8 from './components/services/Page8.vue';
 import FormSuveryMonekey from './components/suverymonkey/FormSuveryMonekey.vue';
 import ZoomComponent from './components/zoom/ZoomComponent.vue';
+import Pdf from './components/Pdf.vue';
+
 
 
 import NewCalendar from './components/FullCalendar.vue';
@@ -59,16 +61,16 @@ import DevelopComponet from './components/DevelopComponent.vue';
 
 Vue.component('table-component', TableComponent);
 Vue.component('table-column', TableColumn);
-Vue.component('font-awesome-icon', FontAwesomeIcon)
-Vue.use(VueRouter)
+Vue.component('font-awesome-icon', FontAwesomeIcon);
+Vue.use(VueRouter);
 Vue.use(VueResource);
 Vue.use(VuePaginate);
 
 import BootstrapVue from 'bootstrap-vue'
 
-Vue.use(BootstrapVue)
+Vue.use(BootstrapVue);
 Vue.component('modal', require('./components/calendar/Model.vue').default);
-Vue.component('form-calendar',  require('./components/contact/FormCalendar.vue').default)
+Vue.component('form-calendar',  require('./components/contact/FormCalendar.vue').default);
 
 import Vue from 'vue';
 import VueFriendlyIframe from 'vue-friendly-iframe';
@@ -240,6 +242,22 @@ var router = new VueRouter({
             path: '/conferencias',
             name: 'conferences',
             component: ZoomComponent,
+            meta: { scrollToTop: true }
+
+        },
+
+        {
+            path: '/documentos',
+            name: 'documents',
+            component: Pdf,
+            meta: { scrollToTop: true }
+
+        },
+
+        {
+            path: '/pdf-flip-book',
+            name: 'pdf-flip-book',
+            component: Pdf,
             meta: { scrollToTop: true }
 
         },

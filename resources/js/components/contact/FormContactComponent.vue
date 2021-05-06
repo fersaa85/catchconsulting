@@ -64,6 +64,11 @@
                                 <p><font-awesome-icon icon="map-marker-alt" class="text-blue" /> Plaza Covalia, Int. 302. Av. Real de Lomas 350, San Luis Potosí, S.L.P..</p>
                                 <p><a href="tel:+528121426958" class="text-blue"><font-awesome-icon icon="phone" /> (444) 476 0122</a></p>
 
+                                <h4>Quebec</h4>
+                                <p><font-awesome-icon icon="map-marker-alt" class="text-blue" /> Sherbrooke, Québec, Canadá.</p>
+                                <p><a href="tel:+1(819)4461811" class="text-blue"><font-awesome-icon icon="phone" /> +1 (819) 446 1811</a></p>
+
+
                                 <div class="col-md-12 follow">
                                         <h5 class="text-blue">¡Síguenos!</h5>
                                         <ul>

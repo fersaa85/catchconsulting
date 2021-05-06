@@ -2,7 +2,6 @@
     <div>
         <slider-component></slider-component>
         <services-component></services-component>
-        <pack-study-component></pack-study-component>
         <customer-component></customer-component>
         <testimonials-component></testimonials-component>
         <team-component></team-component>

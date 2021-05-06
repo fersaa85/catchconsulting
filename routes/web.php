@@ -32,3 +32,5 @@ Route::get('calendario/events', 'EventController@index');
 
 Route::get('conferencias',['as' => 'zoom', 'uses'=>'ZoomController']);
 Route::get('challenger-1', 'GoogleonController@index');
+
+Route::get('api/pdfs', ['as' => 'press', 'uses'=>'PdfController@index']);
